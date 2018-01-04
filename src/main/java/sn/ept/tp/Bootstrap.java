@@ -16,6 +16,6 @@ public class Bootstrap {
     
     public static void main(String[] args) {
         ApplicationContext ctx= SpringApplication.run(Bootstrap.class, args);
-       ctx.
+      
     }
 }
